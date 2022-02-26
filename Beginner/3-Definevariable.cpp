@@ -2,7 +2,13 @@
 using namespace std;
 
 /* Variable type and variables
-int float double char bool */
+int a = 5;
+float b = 3,24;
+double c = 85,9424;
+char a = 'A'
+string b = "Mustafa Samet"
+bool c = true // false
+     */
 
 const double pi = 3.14159;
 
